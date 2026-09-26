@@ -30,8 +30,9 @@ The project guarantees that the LLM acts purely as an extraction and reasoning e
 ## imp for api
 generate api key at https://console.groq.com/keys
 
-at put the  key in the backend in the .env.example file 
-rename teh .env.example file to .env before executing
+and put the  key in the backend in the .env.example file
+
+rename the .env.example file to .env before executing for coverting the llm from mock to groq
 
 
 
