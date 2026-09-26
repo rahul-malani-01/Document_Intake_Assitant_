@@ -27,6 +27,14 @@ The project guarantees that the LLM acts purely as an extraction and reasoning e
 
 ---
 
+## imp for api
+generate api key at https://console.groq.com/keys
+
+at put the  key in the backend in the .env.example file 
+rename teh .env.example file to .env before executing
+
+
+
 ## Repository Structure
 
 ```text
@@ -139,3 +147,7 @@ From `document-intake-assistant\backend`:
 ```powershell
 npm test
 ```
+
+generate api key at https://console.groq.com/keys
+
+at put the   key in the backend in the .env file 
